@@ -1,0 +1,6 @@
+<virtualSet>
+    <input name="Source-2160p" x="0" y="0" zoomX="1" zoomY="1" rotateX="0" rotateY="0" rotateZ="0" cropping="0,0,1,1" dynamic="true" uvmap="uvmap-2160p.png">blank.png</input>
+    <input name="Source-1080p" x="0" y="0" zoomX="1" zoomY="1" rotateX="0" rotateY="0" rotateZ="0" cropping="0,0,1,1" dynamic="true" uvmap="uvmap-1080p.png">blank.png</input>
+    <input name="Source-720p"  x="0" y="0" zoomX="1" zoomY="1" rotateX="0" rotateY="0" rotateZ="0" cropping="0,0,1,1" dynamic="true" uvmap="uvmap-720p.png">blank.png</input>
+    <zoom  name="Zoom"         x="0" y="0" zoomX="1" zoomY="1" rotateX="0" rotateY="0" rotateZ="0" />
+</virtualSet>

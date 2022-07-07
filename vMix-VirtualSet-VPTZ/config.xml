@@ -1,0 +1,6 @@
+<virtualSet>
+    <input name="Canvas" x="0" y="0" zoomX="1" zoomY="1" rotateX="0" rotateY="0" rotateZ="0" cropping="0,0,1,1" dynamic="true">blank.png</input>
+    <input name="Camera" x="0" y="0" zoomX="1" zoomY="1" rotateX="0" rotateY="0" rotateZ="0" cropping="0,0,1,1" dynamic="true">blank.png</input>
+    <input name="Grid"   x="0" y="0" zoomX="1" zoomY="1" rotateX="0" rotateY="0" rotateZ="0" cropping="0,0,1,1" dynamic="true">blank.png</input>
+    <zoom  name="Zoom"   x="0" y="0" zoomX="1" zoomY="1" rotateX="0" rotateY="0" rotateZ="0" />
+</virtualSet>
