@@ -1,0 +1,11 @@
+<virtualSet>
+    <input name="Canvas" x="0"      y="0"       zoomX="1"      zoomY="1"      rotateX="0" rotateY="0" rotateZ="0" dynamic="True">blank.png</input>
+    <input name="C-L"    x="-0.577" y="0.623"   zoomX="0.2835" zoomY="0.2835" rotateX="0" rotateY="0" rotateZ="0" dynamic="True" uvmap="uvmap.png">blank.png</input>
+    <input name="C-C"    x="0"      y="0.623"   zoomX="0.2835" zoomY="0.2835" rotateX="0" rotateY="0" rotateZ="0" dynamic="True" uvmap="uvmap.png">blank.png</input>
+    <input name="C-R"    x="+0.577" y="0.623"   zoomX="0.2835" zoomY="0.2835" rotateX="0" rotateY="0" rotateZ="0" dynamic="True" uvmap="uvmap.png">blank.png</input>
+    <input name="F-L"    x="-0.577" y="-0.034"  zoomX="0.2835" zoomY="0.2835" rotateX="0" rotateY="0" rotateZ="0" dynamic="True" uvmap="uvmap.png">blank.png</input>
+    <input name="F-C"    x="0"      y="-0.034"  zoomX="0.2835" zoomY="0.2835" rotateX="0" rotateY="0" rotateZ="0" dynamic="True" uvmap="uvmap.png">blank.png</input>
+    <input name="F-R"    x="0.577"  y="-0.034"  zoomX="0.2835" zoomY="0.2835" rotateX="0" rotateY="0" rotateZ="0" dynamic="True" uvmap="uvmap.png">blank.png</input>
+    <input name="W-C"    x="0"      y="-0.696"  zoomX="0.2835" zoomY="0.2835" rotateX="0" rotateY="0" rotateZ="0" dynamic="True" uvmap="uvmap.png">blank.png</input>
+    <zoom  name="Zoom"   x="0"      y="0"       zoomX="1"      zoomY="1"      rotateX="0" rotateY="0" rotateZ="0" />
+</virtualSet>
