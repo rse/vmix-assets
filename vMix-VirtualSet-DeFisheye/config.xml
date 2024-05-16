@@ -1,0 +1,4 @@
+<virtualSet>
+    <input name="Source" x="0" y="0" zoomX="1" zoomY="1" rotateX="0" rotateY="0" rotateZ="0" dynamic="true" uvmap="uvmap.png">blank.png</input>
+    <zoom  name="Zoom"   x="0" y="0" zoomX="1" zoomY="1" rotateX="0" rotateY="0" rotateZ="0" />
+</virtualSet>

@@ -48,6 +48,16 @@ The individual assets are:
   limited) Mix-inputs and (the instance unlimited) Virtual Sets with UV
   Maps can pre-render and this way flatten layers.
 
+- **vMix-VirtualSet-Multiview**<br/>
+  This is a *Virtual Set* template based on 7 camera angles.
+  It is intended to be used to create per-camera multiviews.
+
+- **vMix-VirtualSet-DeFisheye**<br/>
+  This is a *Virtual Set* template based on a single camera input. It
+  is intended to be used to remove the fisheye effect of a camera lens
+  (the particular underlying UVMap currently matches a Amcrest IP2M-841B
+  camera and might have to be adjusted for the lense of a different camera).
+
 Installation
 ------------
 
